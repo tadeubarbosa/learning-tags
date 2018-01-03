@@ -6,11 +6,11 @@
 
 **git ls-remote --tags `origin`:** exibindo tags remotas.
 
-##  criando tags locaos e remotas
+##  criando tags locais e remotas
 
-**git tag -am "criando tag v1.0 lorem ipsum" v1.0:** criando tag.
+**git tag -am "criando tag v1.0 lorem ipsum" v1.0:** criando tag v1.0.
 
-**git push `origin` v1.0:** enviando/criando tag em `origin`.
+**git push `origin` v1.0:** enviando/criando tag v1.0 em `origin.
 
 ## abrindo tag
 
