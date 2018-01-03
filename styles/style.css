@@ -1,4 +1,10 @@
 body {
-    background:#d45;
+    background:#1e6de2;
     color:#FFF;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #55fd9a;
 }
